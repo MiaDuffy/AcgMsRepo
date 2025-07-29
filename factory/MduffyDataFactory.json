@@ -1,9 +1,9 @@
 {
 	"name": "MduffyDataFactory",
-	"location": "eastus",
+	"location": "westus",
 	"identity": {
 		"type": "SystemAssigned",
-		"principalId": "58f9656a-225f-4501-9b7d-664bb4859327",
+		"principalId": "6ff28123-5e96-4e7b-8906-0847e73dc72a",
 		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
 	}
 }
